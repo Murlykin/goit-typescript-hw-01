@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Murlykin/goit-typescript-hw-01#readme",
   "devDependencies": {
     "@web/dev-server": "^0.3.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
   }
 }
